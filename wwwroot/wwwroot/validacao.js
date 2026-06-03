@@ -4,7 +4,7 @@ formulario.addEventListener("submit", function(event) {
 
     const nome = document.getElementById("nomes").value;
     const email = document.getElementById("emails").value;
-   const idade = document.getElementById("idades").value;
+   const idAde = document.getElementById("idAde").value;
 
     const erro = document.getElementById("erro");
 
